@@ -1,4 +1,4 @@
-### Hi , it's Mario Mencía Here 👋
+### Hey there it's Mario Mencía Here 👋
 # 🏗️ #
 #### 🚧🔨👷 _(THIS SECTION IS UNDER CONSTRUCTION)_   ####  
 
