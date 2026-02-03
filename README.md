@@ -1,6 +1,8 @@
 ### Hey there it's Mario Mencía Here 👋
-# 🏗️ #
-#### 🚧🔨👷 _(THIS SECTION IS UNDER CONSTRUCTION)_   ####  
+
+#### 🚧 _THIS SECTION IS UNDER CONSTRUCTION (I'm stuck between clean code and good wine🍷)_   ####  
+
+# 🏗️... #
 
 <!--
 **FlakoMencia/FlakoMencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
