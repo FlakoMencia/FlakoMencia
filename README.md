@@ -1,6 +1,6 @@
 ### Hey there it's Mario Mencía Here 👋
 
-#### 🚧 _THIS SECTION IS UNDER CONSTRUCTION (I'm stuck between clean code and good wine🍷)_   ####  
+#### 🚧 _THIS SECTION IS UNDER CONSTRUCTION (debbuging life...)_   ####  
 
 # 🏗️... #
 
