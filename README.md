@@ -13,8 +13,6 @@
   <a href="https://github.com/FlakoMencia?tab=repositories">Repositories</a>
 </p>
 
----
-
 ## About Me
 
 - Senior Software Engineer with **9+ years of professional experience**.
